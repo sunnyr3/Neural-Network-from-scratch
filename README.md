@@ -2,7 +2,7 @@
 
 ## Summary of Training a Neural Network
 1. Randomly initialize the weights.
-2. Implement forward propagation to get h<sub>&theta;</sub>(x<sub>i;</sub>) for any x<sub>i</sub>.
+2. Implement forward propagation to get h<sub>&theta;</sub>(x<sub>i</sub>) for any x<sub>i</sub>.
 3. Implement the cost function.
 4. Implement backpropagation to compute partial derivatives of weights and biases.
 5. Use gradient descent to minimize the cost function with weights in &theta;.
