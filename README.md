@@ -8,4 +8,4 @@
 5. Use gradient descent to minimize the cost function with weights in &theta;.
 
 ## My Words
-I first learned neural network algorithm from a free online ML course series by [Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome). Mr. Ng did a very great job on explaining every detail, and I had a general understanding of neural network. Nonetheless, I still tried to build neural network from scratch, and this exercise indeed helps me gain a much deeper comprehension of how different algorighms, such as backpropagation and gradient descent, come together to build a neural network.
+I first learned neural network algorithm from a free online ML course series by [Andrew Ng](https://www.coursera.org/learn/machine-learning/home/welcome). Mr. Ng did a very great job on explaining every detail, and I had a general understanding of neural network. Nonetheless, I still tried to build neural network from scratch, and this exercise indeed helps me gain a much deeper comprehension of how different algorithms, such as backpropagation and gradient descent, come together to build a neural network.
